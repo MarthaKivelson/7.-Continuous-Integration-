@@ -18,7 +18,7 @@ def test_cube():
     assert cube(10) == 1000, "Test failed, Answer should be 1000"
 
 def test_fifth_power():
-    assert fifth_power(2) == 32, "Test failed, Answer should be 9"
+    assert fifth_power(2) == 32, "Test failed, Answer should be 32"
     assert fifth_power(10) == 100000, "Test failed, Answer should be 100000"
 
 def test_valid_input():
