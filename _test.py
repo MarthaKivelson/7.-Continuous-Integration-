@@ -14,7 +14,7 @@ def test_square():
     assert square(4) == 16, "Test failed, Answer should be 16"
 
 def test_cube():
-    assert cube(3) == 9, "Test failed, Answer should be 9"
+    assert cube(3) == 27, "Test failed, Answer should be 27"
     assert cube(10) == 1000, "Test failed, Answer should be 1000"
 
 def test_fifth_power():
